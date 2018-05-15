@@ -55,7 +55,7 @@
             this.txtTabuada.Location = new System.Drawing.Point(105, 107);
             this.txtTabuada.Multiline = true;
             this.txtTabuada.Name = "txtTabuada";
-            this.txtTabuada.Size = new System.Drawing.Size(100, 164);
+            this.txtTabuada.Size = new System.Drawing.Size(157, 164);
             this.txtTabuada.TabIndex = 2;
             // 
             // button1

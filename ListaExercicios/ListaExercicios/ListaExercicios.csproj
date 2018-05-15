@@ -63,6 +63,12 @@
     <Compile Include="Exercicio04.Designer.cs">
       <DependentUpon>Exercicio04.cs</DependentUpon>
     </Compile>
+    <Compile Include="Exercicio05.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Exercicio05.Designer.cs">
+      <DependentUpon>Exercicio05.cs</DependentUpon>
+    </Compile>
     <Compile Include="Exrcicio03.cs">
       <SubType>Form</SubType>
     </Compile>
