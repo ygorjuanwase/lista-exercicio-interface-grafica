@@ -47,5 +47,37 @@ namespace ListaExercicios
             exercicio05.Show();
         }
 
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Exercicio06 exercicio06 = new Exercicio06();
+            exercicio06.Show();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Exercicio07 exercicio07 = new Exercicio07();
+            exercicio07.Show();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Exercicio08 exercicio08 = new Exercicio08();
+            exercicio08.Show();
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            Exercicio09 exercicio09 = new Exercicio09();
+            exercicio09.Show();
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            Exercicio10 exercicio10 = new Exercicio10();
+            exercicio10.Show();
+        }
+
+
+
     }
 }
