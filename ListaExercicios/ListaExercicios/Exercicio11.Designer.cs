@@ -46,6 +46,7 @@
             this.button1.TabIndex = 0;
             this.button1.Text = "os Resultados";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // label1
             // 
@@ -62,7 +63,7 @@
             this.txtdia.Location = new System.Drawing.Point(135, 24);
             this.txtdia.Name = "txtdia";
             this.txtdia.Size = new System.Drawing.Size(100, 20);
-            this.txtdia.TabIndex = 2;
+            this.txtdia.TabIndex = 1;
             // 
             // label2
             // 
@@ -89,14 +90,14 @@
             this.txtano.Location = new System.Drawing.Point(135, 87);
             this.txtano.Name = "txtano";
             this.txtano.Size = new System.Drawing.Size(100, 20);
-            this.txtano.TabIndex = 8;
+            this.txtano.TabIndex = 3;
             // 
             // txtmes
             // 
             this.txtmes.Location = new System.Drawing.Point(413, 24);
             this.txtmes.Name = "txtmes";
             this.txtmes.Size = new System.Drawing.Size(100, 20);
-            this.txtmes.TabIndex = 10;
+            this.txtmes.TabIndex = 2;
             // 
             // txtResultado
             // 
